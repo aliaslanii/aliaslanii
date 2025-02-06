@@ -7,8 +7,10 @@
 
 
 <p align="center">
+
   [![LinkedIn](https://img.shields.io/badge/-Ali%20Aslani-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-aslani-39352b248/)
   [![Email](https://img.shields.io/badge/-aliaslani1727@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliaslani1727@gmail.com)
+  
 </p>
 
 
