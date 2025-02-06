@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ali Aslani 😎</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-Ali%20Aslani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-aslani-39352b248/)](https://www.linkedin.com/in/ali-aslani-39352b248/)
+
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/aliaslanii)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/aliaslanii)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/aliaslanii)
@@ -8,8 +8,14 @@
 
 
 <p align="center"> 
-  🚀<a href="mailto:aliaslani1727@gmail.com">aliaslani1727@gmail.com</a>  
+  🚀 Contact me via  
+  <a href="mailto:aliaslani1727@gmail.com">aliaslani1727@gmail.com</a>  
+  or  
+  <a href="https://www.linkedin.com/in/ali-aslani-39352b248/">
+    <img src="https://img.shields.io/badge/-Ali%20Aslani-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>  
 </p>
+
 
 
 ```php
