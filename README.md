@@ -6,13 +6,11 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/aliaslanii)
 
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-aslani-39352b248/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" />
-    <img src="https://img.shields.io/badge/-Ali%20Aslani-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/-Ali%20Aslani-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-aslani-39352b248/)
+  [![Email](https://img.shields.io/badge/-aliaslani1727@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliaslani1727@gmail.com)
 </p>
+
 
 
 ```php
