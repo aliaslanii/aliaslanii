@@ -56,9 +56,9 @@ $aliAslani = new Developer(
 print_r($aliAslani->getProfile());
 
 ```
-<div>
+<div style="text-align: left;">
     <a href="https://github.com/aliaslanii">
-      <img height=200  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslanii&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,blade&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=10
-      " />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslanii&hide=javascript,blade&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=10" alt="Top Languages">
     </a>
-</div>  
+</div>
+ 
