@@ -10,7 +10,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/-Ali%20Aslani-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-aslani-39352b248/)
   [![Email](https://img.shields.io/badge/-aliaslani1727@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliaslani1727@gmail.com)
-  
+
 </p>
 
 
@@ -56,12 +56,10 @@ $aliAslani = new Developer(
 print_r($aliAslani->getProfile());
 
 ```
-  <div>
-    <a href="https://github.com/aliaslnii">
-      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslanii&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=10" />
+<div>
+    <a href="https://github.com/aliaslanii">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslanii&hide=c%23,
+      powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&
+      icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=10" />
     </a>
-  </div>  <div>
-    <a href="https://github.com/aliaslnii">
-      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslanii&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=10" />
-    </a>
-  </div>
+</div>  
