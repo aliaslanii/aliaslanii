@@ -7,16 +7,12 @@
 
 
 
-<p align="center"> 
-  🚀 Contact me via  
-  <a href="mailto:aliaslani1727@gmail.com">aliaslani1727@gmail.com</a>  
-  or  
-   <a href="https://www.linkedin.com/in/ali-aslani-39352b248/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-aslani-39352b248/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" />
     <img src="https://img.shields.io/badge/-Ali%20Aslani-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>  
+  </a>
 </p>
-
 
 
 ```php
