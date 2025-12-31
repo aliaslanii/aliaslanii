@@ -24,14 +24,19 @@ class Developer
     public array $askMeAbout;
     public array $technologies;
 
-    public function __construct($name, $askMeAbout, $technologies)
+    public function __construct
+    (
+          string $name,
+          array $askMeAbout,
+          array $technologies
+    ) : void
     {
         $this->name = $name;
         $this->askMeAbout = $askMeAbout;
         $this->technologies = $technologies;
     }
 
-    public function getProfile()
+    public function getProfile() : array
     {
         return [
             "name" => $this->name,
@@ -43,13 +48,13 @@ class Developer
 
 $aliAslani = new Developer(
     "Ali Aslani",
-    ["Web", "Backend", "API"],
+    ["Backend", "RESTful API"],
     [
         "backEnd" => [
-            "php" => ["Laravel", "Livewire"],
+            "php" => ["Php","Laravel"],
         ],
         "databases" => ["SQLite", "MySQL"],
-        "misc" => ["JavaScript", "Python", "Django"],
+        "misc" => ["Python", "JavaScript"],
     ]
 );
 
